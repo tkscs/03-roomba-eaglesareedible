@@ -12,12 +12,11 @@ import room
 speed(7)
 
 # Draw the Level 3 version of the room
-window = room.draw_room(level = 3)
+window = room.draw_room(level = 3,radius=5)
 
 ###
 # Start your code here
- 
- 
+
  
 # End your code here
 ###
